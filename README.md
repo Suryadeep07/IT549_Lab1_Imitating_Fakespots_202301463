@@ -1,1 +1,4 @@
-# IT549_Lab1_Imitating_Fakespots_202301463
+# IT549_Lab1_Imitating_Fakespots
+
+Name: Suryadeepsinh Gohil
+ID: 202301463
